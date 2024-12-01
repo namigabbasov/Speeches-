@@ -10,7 +10,7 @@ This repository includes details, summaries, and links for each of my talks on a
 In this talk, I explore the evolution of artificial intelligence, from its theoretical roots to its disruptive impact on the modern workforce. I address a question: *Will AI replace data scientists?* Through the lens of recent advancements, I highlight the ways AI is transforming the data science landscape and reshaping the tools, techniques, and roles within the field.
 
 **Key Topics Covered**:
- - **The History of AI**:
+ - **History of AI**:
    - Milestones in AI development: From Turing's foundational ideas to deep learning.
    - AI booms and winters 
    - Transformers
@@ -36,7 +36,6 @@ In this talk, I explore the evolution of artificial intelligence, from its theor
 - Detailed summaries of each talk.
 - Links to slides, recordings, and additional resources.
 - Information about upcoming speaking engagements.
-
 ---
 
 
