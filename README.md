@@ -4,7 +4,7 @@ This repository includes details, summaries, and links for each of my talks on a
 
 ## 🎙️ Featured Talks
 
-### **1. History of AI: Will AI Replace Data Scientists? How AI is Transforming the Data Science Sector**
+### **1. History of AI: Will AI Replace Data Scientists? How AI is Transforming Data Science Sector**
 
 **Description**:  
 In this talk, I explore the evolution of artificial intelligence, from its theoretical roots to its disruptive impact on the modern workforce. I address a question: *Will AI replace data scientists?* Through the lens of recent advancements, I highlight the ways AI is transforming the data science landscape and reshaping the tools, techniques, and roles within the field.
