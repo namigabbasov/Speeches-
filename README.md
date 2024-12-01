@@ -26,7 +26,7 @@ In this talk, I explore the evolution of artificial intelligence, from its theor
    - Rise of low-code/no-code platforms and their implications for data science teams.
 
 **Links**
-- Slides: [Link to Slides]()
+- Slides: [Link to Slides](https://github.com/namigabbasov/Talks/blob/main/Data%20Conference%202024_Namig%20Abbasov.pptx)
 - Recording: [Watch the Talk](#) (Coming Soon)
 
 
@@ -42,4 +42,4 @@ In this talk, I explore the evolution of artificial intelligence, from its theor
 
 
 **Contact**:  
-For collaborations, speaking engagements, or inquiries, feel free to reach out to me via [Email](namigaabbasov@gmail.com).
+For collaborations, speaking engagements, or inquiries, feel free to reach out to me via email: namigaabbasov@gmail.com.
