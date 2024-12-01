@@ -1,6 +1,6 @@
-# Talks by Namig Abbasov
+# Talks
 
-Welcome to the repository dedicated to **my talks** on artificial intelligence, data science, digital humanigties, and computational social sciece. This repository includes details, summaries, and resources for each of my talks. 
+This repository includes details, summaries, and links for each of my talks on artificial intelligence, data science, digital humanigties, and computational social science. 
 
 ## 🎙️ Featured Talks
 
