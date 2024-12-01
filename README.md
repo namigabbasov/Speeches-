@@ -10,29 +10,25 @@ Welcome to the repository dedicated to **my talks** on artificial intelligence, 
 In this talk, I explore the evolution of artificial intelligence, from its theoretical roots to its disruptive impact on the modern workforce. I address a question: *Will AI replace data scientists?* Through the lens of recent advancements, I highlight the ways AI is transforming the data science landscape and reshaping the tools, techniques, and roles within the field.
 
 **Key Topics Covered**:
-1. **The History of AI**:
+ - **The History of AI**:
    - Milestones in AI development: From Turing's foundational ideas to deep learning.
    - AI booms and winters 
    - Transformers
    - Rise of RNNS 
 
-2. **Will AI Replace Data Scientists?**:
+- **Will AI Replace Data Scientists?**:
    - Complementary nature of AI and human expertise.
    - Unique capabilities of data scientists that machines cannot replicate: domain knowledge, creativity, and ethical decision-making.
    - Future of collaboration between AI and professionals.
-
-3. **Transforming the Data Science Sector**:
+- **Transforming the Data Science Sector**:
    - AI-powered tools automating mundane tasks (e.g., feature engineering, model selection, and data cleaning).
    - Emerging skills for data scientists in AI age
    - Rise of low-code/no-code platforms and their implications for data science teams.
 
-**Resources**:
+**Links**
 - Slides: [Link to Slides]()
 - Recording: [Watch the Talk](#) (Coming Soon)
 
----
-
-Stay tuned for more upcoming talks as I dive deeper into topics at the intersection of AI, data science, and societal change.
 
 ---
 
