@@ -36,18 +36,14 @@ Stay tuned for more upcoming talks as I dive deeper into topics at the intersect
 
 ---
 
-## 🛠️ How to Use This Repository
-This repository will be continuously updated with:
+## 🛠️ This repository will be continuously updated with:
 - Detailed summaries of each talk.
 - Links to slides, recordings, and additional resources.
 - Information about upcoming speaking engagements.
 
 ---
 
-## 🌟 About Me
-I am Namig Abbasov, a digital humanities analyst with a Ph.D. in Political Science, specializing in NLP and data science. Through my talks, I aim to share insights on how AI and data science are shaping industries and societies, empowering professionals to navigate this rapidly evolving landscape.
 
----
 
 **Contact**:  
-For collaborations, speaking engagements, or inquiries, feel free to reach out to me via [LinkedIn](#) or [Email](#).
+For collaborations, speaking engagements, or inquiries, feel free to reach out to me via [Email](namigaabbasov@gmail.com).
